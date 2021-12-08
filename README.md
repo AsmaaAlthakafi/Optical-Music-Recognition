@@ -8,4 +8,4 @@ The dataset will contain images of music sheets.
 
 ## Tools
  - Pandas and Numpy for data manipulation.
- - Keras for deep learning
+ - Keras for deep learning.
